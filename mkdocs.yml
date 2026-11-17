@@ -1,0 +1,10 @@
+site_name: Trailmark
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Configuration: configuration.md
+  - Trails:
+      - Eagle Ridge Loop: trails/eagle-ridge.md
+      - Cedar Falls Out-and-Back: trails/cedar-falls.md
+theme:
+  name: material
