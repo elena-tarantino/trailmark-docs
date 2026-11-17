@@ -12,3 +12,5 @@ mkdocs serve
 ```
 
 See `docs/getting-started.md` for the full setup.
+
+Last reviewed November 2026
